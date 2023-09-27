@@ -1,4 +1,4 @@
-# CIS35-HW2-Dies
+# CIS350-HW2-Dies
 Repository for CIS 350 Homework
 ## Introduction
 Hi, my name is Aaron Dies and I am a second-year computer science major at Grand Valley State University.
